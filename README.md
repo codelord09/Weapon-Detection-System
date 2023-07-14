@@ -1,7 +1,1 @@
-# Weapon Detection System
-
-Weapon detection system for Youtube tutorial - https://www.youtube.com/channel/UC4NN7HGjbPMfdeWutaSJhjA
-
-Make sure to add yolov4.weights to weights folder witihn the client_side folder for the Yolov4 detection algorithm to work.
-
-yolov4.weights download link - https://drive.google.com/file/d/1vr_Bc7JKkuTA8QC4TdQ00KlK3IfdEtv6/view?usp=sharing
+This is the course group-based project is a computer vision-based system developed to detect weapons. It utilizes deep learning frameworks like TensorFlow and YOLOv3 for object detection. This project finds applications in enhancing security measures and public safety in various settings.
